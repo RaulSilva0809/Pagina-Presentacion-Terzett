@@ -1,2 +1,2 @@
-# Pagina-Presentacion-Terzett
-Se crea una pagina de presentacion para la empresa Terzett Technologix  https://terzett.tech/
+# Página-Presentación-Terzett
+Se crea una página de presentación para la empresa Terzett Technologix , (Resultado final https://terzett.tech/)
